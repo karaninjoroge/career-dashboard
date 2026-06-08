@@ -1,98 +1,119 @@
-# Career Dashboard — Dennis Karani Njoroge
+# Career Dashboard
 
-> Transparent tracking of my PM transition. Every metric, every goal, every win and setback.
-
----
-
-## Current Status
-
-| Metric | Value |
-|---|---|
-| 📅 Transition started | 2024 |
-| 🎯 Target role | PM Intern / APM / Product Ops / Founder Associate |
-| 📊 Applications sent (total) | 0 |
-| 🎤 Interviews completed | 0 |
-| 🏗 Portfolio projects complete | 0 / 4 |
-| 📋 PRDs written | 0 |
-| 🔍 Teardowns published | 0 / 50 |
-| 📓 Journal entries written | 1 |
-| 🤝 PM connections made | 0 |
+**Author:** Karani Njoroge
+**Last Updated:** June 2026
+**Purpose:** Live tracker of my PM journey — progress, applications, networking, learning, and reflections.
 
 ---
 
-## 90-Day Goals
+## Current Focus
 
-**Portfolio:** Complete 2 full case studies (Hospital Queue Management + Student Internship Marketplace)
-**Teardowns:** Publish 10 teardowns (all African/Kenyan products)
-**Analytics:** Complete Telecom Churn Analysis with SQL
-**Learning:** Write 12 journal entries (one per week)
-**Network:** Make 10 genuine connections with PMs or founders
-**Applications:** Send 30 quality applications
+**Primary Goal:** Product Management Internship or Associate PM role
+**Target Sectors:** HealthTech, EdTech, High-growth Startups (Kenya & Africa)
+**Target Timeline:** Q3–Q4 2026
+**Open To:** PM Intern · Associate PM · Founder Associate · Product Operations · Business Analyst
 
 ---
 
-## Monthly Log
+## Portfolio Progress
 
-### Month 1 — Foundation
-
-**Wins:**
-- [ ] ...
-
-**Struggles:**
-- [ ] ...
-
-**Portfolio added:**
-- [ ] ...
-
-**Key learning:**
-- [ ] ...
+| Repository | Status | Completeness | Priority Next Step |
+|---|---|---|---|
+| Profile README | ✅ Complete | 100% | Refresh monthly |
+| pm-portfolio | ✅ Complete | 100% | Update as projects complete |
+| hospital-queue-management | 🔄 In Progress | 70% | Complete roadmap + launch plan |
+| student-internship-marketplace | 🔄 In Progress | 30% | Complete research phase |
+| medical-equipment-maintenance-tracker | 🔄 In Progress | 20% | Write problem statement |
+| ai-study-planner | 🔄 In Progress | 20% | Write problem statement |
+| product-teardowns | 🔄 In Progress | 15% | Publish 2 more teardowns |
+| analytics-projects | 🔄 In Progress | 30% | Complete churn analysis |
+| pm-frameworks | 🔄 In Progress | 40% | Add AARRR, HEART, OST |
+| product-learning-journal | 🔄 In Progress | 10% | Publish weekly (target: 20 entries) |
+| interview-story-bank | 🔄 In Progress | 40% | Add conflict, ambiguity, teamwork |
+| career-dashboard | ✅ Complete | 100% | Update weekly |
 
 ---
 
-## Application Tracker
+## Applications Tracker
 
-*(Link to Notion Job Pipeline for full tracking)*
-
-| Company | Role | Date | Stage | Notes |
+| Company | Role | Date Applied | Status | Notes |
 |---|---|---|---|---|
-| | | | | |
-
----
-
-## Interview Reflections
-
-| Date | Company | Type | What went well | What to improve |
-|---|---|---|---|---|
-| | | | | |
+| — | — | — | — | Starting applications Q3 2026 |
 
 ---
 
 ## Networking Log
 
-| Name | Company | How met | Date | Follow-up |
-|---|---|---|---|---|
-| | | | | |
+| Person | Company | Role | Date | Connection | Follow-Up Done |
+|---|---|---|---|---|---|
+| — | — | — | — | — | — |
 
 ---
 
-## Skills Development
+## Skills in Progress
 
-| Skill | Start level | Current level | Target | Resources |
+| Skill | Current Level | Target Level | Resources | Timeline |
 |---|---|---|---|---|
-| SQL | Beginner | Beginner | Intermediate | Mode Analytics, LeetCode |
-| Figma | Beginner | Beginner | Intermediate | Figma tutorials |
-| Product Analytics | Beginner | Beginner | Intermediate | Reforge, articles |
-| PRD Writing | Beginner | Beginner | Solid | Templates + practice |
-| User Research | Basic | Basic | Proficient | Continuous Discovery Habits |
+| SQL | Beginner | Intermediate | Mode Analytics, StrataScratch | 60 days |
+| Figma | Beginner | Functional PM level | Figma tutorials, portfolio wireframes | 90 days |
+| Product Analytics | Conceptual | Applied | Analytics projects in this repo | 60 days |
+| PRD Writing | Developing | Proficient | 4 complete case study PRDs | 45 days |
 
 ---
 
-## Notion ↔ GitHub Sync
+## Learning Goals — June 2026
 
-This dashboard is a public summary. The full detail lives in my Notion PM Second Brain:
-- Job Pipeline (Kanban with all stages)
-- Interview Lab (confidence-scored question bank)
-- Network CRM (warm / cold contacts)
-- Learning Journal (daily + weekly entries)
+- [x] Complete hospital queue management discovery phase
+- [x] Publish first product teardown (M-TIBA)
+- [x] Write 3 PM framework documents
+- [ ] Complete SQL churn analysis with insights
+- [ ] Publish 4 learning journal entries
+- [ ] Complete internship marketplace problem statement
 
-**Rule:** Notion = working system. GitHub = public evidence layer. Notion is where I think. GitHub is where I prove.
+---
+
+## Monthly Wins
+
+### June 2026
+- Built and published complete PM Knowledge Graph on GitHub
+- Completed full discovery phase for hospital queue management project
+- Published first product teardown (M-TIBA)
+- Wrote first SQL analysis with business insights
+- Established learning journal with 2 entries
+- Documented 4 STAR interview stories
+
+---
+
+## Quarterly Goals
+
+### Q3 2026 (July–September)
+- Land at least 2 PM internship interviews
+- Complete all 4 PM case studies with full artifact sets
+- Publish 12+ product teardowns
+- Write 12+ learning journal entries
+- Build network of 20+ PM connections
+- Complete intermediate SQL through StrataScratch
+
+---
+
+## Career Reflections
+
+### June 2026
+Building this GitHub ecosystem forced me to confront how much I was assuming versus knowing. The discipline of writing everything down — problem statements, assumptions, research plans — makes the gaps in my thinking impossible to hide. That is the point.
+
+The most valuable thing I built this month was not any single document. It was the habit of structuring my thinking before committing it to paper. Every PRD draft I abandoned because it started with a solution instead of a problem taught me more than the ones I completed.
+
+The next stage is volume. One good teardown means I can analyze a product. Ten teardowns means I have built analytical instincts. That is the goal for Q3.
+
+---
+
+## Notion Integration
+
+This career dashboard syncs with my Notion PM Second Brain workspace.
+
+| GitHub (Evidence Layer) | Notion (Planning Layer) |
+|---|---|
+| Completed artifacts and documents | Weekly planning and task tracking |
+| Commit history as progress log | Goals and OKR tracking |
+| Public portfolio for recruiters | Private reflections and drafts |
+| SQL and analytics work | Reading notes and book summaries |
